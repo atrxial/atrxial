@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Janis AIAD
+===========================
 
-<!--
-**atrxial/atrxial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DL & Quant student
+------------------
 
-Here are some ideas to get you started:
+I've been learning code for 7 years and here are a small part of all my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Paris
+*   ✉️  You can contact me at [janis.aiad@polytechnique.edu](mailto:janis.aiad@polytechnique.edu)
+*   🧠  I'm learning DL, LLM, Stochastic control, Quant Finance
+*   🤝  I'm open to collaborating on ML projects, Hackhatons & problem-solving
+*   ⚡  I love Rubik's Cube & I developped many techniques or useful algs subsets
