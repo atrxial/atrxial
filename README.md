@@ -1,7 +1,7 @@
 Hi 👋 My name is Janis AIAD
 ===========================
 
-DL & Quant student
+ML student
 ------------------
 
 I've been learning code for 7 years and here is a small part of all my projects.
